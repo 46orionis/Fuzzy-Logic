@@ -6,13 +6,17 @@ This project implements a simulation using fuzzy logic in MATLAB to control an a
 
 ## Key Features:
 
-# Randomized Environment: At the start of each simulation, the agent, gold, and monster are randomly positioned. During each iteration, while the gold remains fixed, the monster is randomly repositioned, creating a dynamic and unpredictable challenge for the agent.
+### Randomized Environment:
+At the start of each simulation, the agent, gold, and monster are randomly positioned. During each iteration, while the gold remains fixed, the monster is randomly repositioned, creating a dynamic and unpredictable challenge for the agent.
 
-# Fuzzy Logic Decision-Making: The agent's movements and actions are governed by a fuzzy logic system that evaluates its distance from the gold and the monster, enabling adaptive and nuanced decision-making.
+### Fuzzy Logic Decision-Making: 
+The agent's movements and actions are governed by a fuzzy logic system that evaluates its distance from the gold and the monster, enabling adaptive and nuanced decision-making.
 
-# Dynamic Simulation: As the simulation progresses, the agent continuously adjusts its path based on the fixed position of the gold and the dynamically repositioned monster, adhering to the fuzzy logic rules set in place.
+### Dynamic Simulation: 
+As the simulation progresses, the agent continuously adjusts its path based on the fixed position of the gold and the dynamically repositioned monster, adhering to the fuzzy logic rules set in place.
 
-# Real-Time Visualization: The simulation is visually represented within MATLAB, displaying the positions of the agent, monster, and gold, along with the agent's energy level, allowing for clear observation of the agent's performance.
+### Real-Time Visualization: 
+The simulation is visually represented within MATLAB, displaying the positions of the agent, monster, and gold, along with the agent's energy level, allowing for clear observation of the agent's performance.
 
 ## How It Works
 
